@@ -1,6 +1,6 @@
-# Learning_Geospatial_Data
+# Geospatial Data Utilities
 
- Experiments as part of the Kaggle Geospatial Data Course
+ General geospatial data utilities repo stemming from the Kaggle Geospatial Data Course
  
  Creating interactive maps, and discover patterns in geospatial data.
 
